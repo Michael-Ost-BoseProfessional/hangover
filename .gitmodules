@@ -1,7 +1,7 @@
 [submodule "wine"]
 	path = wine
-	url = https://github.com/AndreRH/wine.git
-	branch = arm64ec
+	url = https://github.com/Michael-Ost-BoseProfessional/wine.git
+	branch = bosepro
 [submodule "fex"]
 	path = fex
 	url = https://github.com/AndreRH/FEX.git
