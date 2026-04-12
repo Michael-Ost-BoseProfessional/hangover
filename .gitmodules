@@ -4,8 +4,8 @@
 	branch = bosepro
 [submodule "fex"]
 	path = fex
-	url = https://github.com/AndreRH/FEX.git
-	branch = arm64ec
+	url = https://github.com/Michael-Ost-BoseProfessional/FEX.git
+	branch = bosepro
 [submodule "box64"]
 	path = box64
 	url = https://github.com/AndreRH/box64
